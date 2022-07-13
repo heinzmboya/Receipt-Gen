@@ -1,0 +1,8 @@
+Bill breakdown:
+milk:                     ...$2
+coffee:                   ...$1
+mangoes:                  ...$3
+butter:                   ...$2
+bread:                    ...$2
+tip:                      ...$1
+total:                    ...$11.00
